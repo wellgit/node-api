@@ -1,0 +1,14 @@
+{
+  "ids": {
+    "Aluno": 8
+  },
+  "models": {
+    "Aluno": {
+      "3": "{\"nome\":\"string\",\"idade\":0,\"email\":\"string\",\"curso\":\"Ser Campeao\",\"additionalProp1\":{},\"id\":3}",
+      "4": "{\"nome\":\"Eduardo\",\"idade\":16,\"email\":\"futeboldebotao@comseuavo.com\",\"curso\":\"Administracao\",\"additionalProp1\":{},\"id\":4}",
+      "5": "{\"nome\":\"Monica\",\"idade\":22,\"email\":\"falava@alemao.com\",\"curso\":\"Medicina\",\"additionalProp1\":{},\"id\":5}",
+      "6": "{\"nome\":\"Joao de Santo Cristo\",\"idade\":12,\"email\":\"quecidade@linda.com\",\"curso\":\"Carpintaria\",\"additionalProp1\":{},\"id\":6}",
+      "7": "{\"nome\":\"Maria Lucia\",\"idade\":22,\"email\":\"menina@linda.com\",\"curso\":\"Vendas\",\"additionalProp1\":{},\"id\":7}"
+    }
+  }
+}
